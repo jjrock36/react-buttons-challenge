@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-buttons-challenge/static/css/main.f6c02a45.chunk.css",
+    "main.js": "/react-buttons-challenge/static/js/main.98062072.chunk.js",
+    "main.js.map": "/react-buttons-challenge/static/js/main.98062072.chunk.js.map",
+    "runtime-main.js": "/react-buttons-challenge/static/js/runtime-main.525d1e21.js",
+    "runtime-main.js.map": "/react-buttons-challenge/static/js/runtime-main.525d1e21.js.map",
+    "static/js/2.b9258578.chunk.js": "/react-buttons-challenge/static/js/2.b9258578.chunk.js",
+    "static/js/2.b9258578.chunk.js.map": "/react-buttons-challenge/static/js/2.b9258578.chunk.js.map",
+    "index.html": "/react-buttons-challenge/index.html",
+    "static/css/main.f6c02a45.chunk.css.map": "/react-buttons-challenge/static/css/main.f6c02a45.chunk.css.map",
+    "static/js/2.b9258578.chunk.js.LICENSE.txt": "/react-buttons-challenge/static/js/2.b9258578.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.525d1e21.js",
+    "static/js/2.b9258578.chunk.js",
+    "static/css/main.f6c02a45.chunk.css",
+    "static/js/main.98062072.chunk.js"
+  ]
+}
